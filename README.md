@@ -1,3 +1,3 @@
 # Nigar-HNY
 
-Live Demo: https://github.com/UlikGames/Nigar-HNY/
+Live Demo: https://ulikgames.github.io/Nigar-HNY/
