@@ -37,7 +37,7 @@ body {
 	font-size: 18px;
 	margin-top: 10px;
 	margin-bottom: 10px;
-	text-shadow:0 2px 2px rgba(255,164,250,0.8);
+	text-shadow:0 2px 2px rgba(255,255,255,0);
 }
 
 #words {
@@ -49,7 +49,7 @@ body {
 
 #messages{
 	display: none;
-	color:red;
+	color:#eae6e6bd;
 }
 
 #elapseClock .digit{
@@ -64,9 +64,9 @@ body {
 	margin-right: 120px;
 	text-align: right;
 	display: none;
-	color:#FFD700;
+	color:#eae6e6bd;
 	font-weight:900;
-	text-shadow:0 2px 2px rgba(255,250,196,1.0);
+	text-shadow: 0 2px 2px rgb(197 197 193);
 }
 
 #loveu .signature{
